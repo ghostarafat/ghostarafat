@@ -59,3 +59,4 @@ Hi! I'm Arafat — a passionate frontend developer currently learning and buildi
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostarafat&label=Profile%20views&color=0e75b6&style=flat" alt="ghostarafat" /> </p>
