@@ -9,13 +9,6 @@
 
 ---
 
-## 📍 Location & Contact
-- 📌 **Dhaka, Bangladesh**  
-- 📧 **arafathossain173737@gmail.com**  
-- 🌐 Portfolio: [ghostarafat.github.io/portfolio-web](https://ghostarafat.github.io/portfolio-web/)
-
----
-
 ## 👨‍💻 About Me
 Hi! I'm Arafat — a passionate frontend developer currently learning and building real-world applications using modern web technologies.
 
